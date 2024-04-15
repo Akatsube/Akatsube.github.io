@@ -1,0 +1,7 @@
+class AZERTY {
+    constructor(id) {
+        this.id = id;
+    }
+}
+
+module.exports = AZERTY;
